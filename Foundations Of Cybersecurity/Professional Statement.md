@@ -26,7 +26,7 @@ I am Wilson Vijay Sequeira, an aspiring cybersecurity professional with a strong
 
 4. **Client-Centric Approach:** Prioritizing the needs and concerns of clients, I strive to deliver tailored cybersecurity solutions that align with organizational goals.
 
-## Question-Answer Model
+## Question:
 
 ### 1. What most interests me about the field of cybersecurity?
 
