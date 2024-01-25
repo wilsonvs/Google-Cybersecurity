@@ -1,7 +1,6 @@
-# Glossary
-## Cybersecurity
 
-### Terms and definitions from Course 1
+
+#Terms and definitions from Course 1
 #### A
 - **Adversarial artificial intelligence:** A technique that manipulates AI and ML technology for more efficient attacks
 - **Antivirus software:** Program used to prevent, detect, and eliminate malware and viruses
