@@ -1,51 +1,63 @@
-# Google Cybersecurity Professional Certificate Repository
+# Google Cybersecurity Professional Certificate
 
-![Certificate of completion for Google Cybersecurity Professional Certificate](./General/Certificate.png)
-
-Welcome to my GitHub repository documenting my journey through the [Google Cybersecurity Professional Certificate](https://grow.google/certificates/cybersecurity/#?modal_active=none). I'm excited to share my projects, notes, and insights gained during this comprehensive cybersecurity program.
-
-## Certificate of Completion
-
-You can verify my accomplishment through my certificate on [Credly](https://www.credly.com/badges/b26300b6-1e82-4e72-8d5d-195adf1534e1/linked_in_profile) or [Coursera](https://coursera.org/share/8e8b4cc026db128ec5a35848bfaf7679).
+Portfolio documentation for my Google Cybersecurity Professional Certificate work, organized around skills relevant to entry-level SOC, cybersecurity analyst, and security operations roles.
 
 ## Overview
 
-The Google Cybersecurity Professional Certificate equips individuals with foundational knowledge essential for pursuing entry-level roles in cybersecurity. It covers a range of conceptual topics and technical skills, providing a well-rounded understanding of cybersecurity practices.
+This repository documents applied learning from the Google Cybersecurity Professional Certificate, including security concepts, analyst workflows, Linux, SQL, Python, network security, SIEM fundamentals, incident response, and risk management.
 
-### Conceptual Topics Include:
+The goal of this repository is to show how the certificate material maps to practical security work: analyzing risk, reviewing logs, documenting incidents, understanding network activity, and communicating security recommendations clearly.
 
-- **Risk Management:** Understanding and mitigating cybersecurity risks.
-- **Threat Analysis:** Analyzing potential threats to security.
-- **Network Security:** Implementing measures to secure networks.
-- **Incident Response:** Responding effectively to cybersecurity incidents.
+## Certificate Verification
 
-### Technical Skills Developed:
+- [Credly badge](https://www.credly.com/badges/b26300b6-1e82-4e72-8d5d-195adf1534e1/linked_in_profile)
+- [Coursera certificate](https://coursera.org/share/8e8b4cc026db128ec5a35848bfaf7679)
 
-- **Linux:** Operating within a Linux environment.
-- **Python:** Automating cybersecurity tasks with Python.
-- **SQL:** Database management and querying.
-- **SIEM Tools:** Utilizing Splunk and Chronicle for Security Information and Event Management.
-- **Network Protocol Analyzers:** Proficient use of Wireshark and tcpdump.
-- **IDS/IPS Tools:** Implementing Intrusion Detection and Prevention Systems.
-- **Firewalls:** Configuring and managing firewalls.
+## Skills Demonstrated
 
-## Course Structure
+| Skill Area | Evidence in This Repository |
+| --- | --- |
+| Security foundations | CIA triad, threat types, security domains, risk concepts |
+| Risk management | Asset, threat, vulnerability, and control documentation |
+| Network security | Protocols, network controls, packet analysis concepts |
+| Linux and SQL | Command-line fundamentals and query practice |
+| Detection and response | SIEM concepts, alert review, incident response workflow |
+| Python automation | Beginner security automation and repeatable task scripting |
+| Professional communication | Written summaries, structured notes, and security recommendations |
 
-The repository is organized by courses in the certificate, detailing the progression of my learning journey:
+## Repository Structure
 
-1. **Foundations of Cybersecurity**
-2. **Play It Safe: Manage Security Risks**
-3. **Connect and Protect: Networks and Network Security**
-4. **Tools of the Trade: Linux and SQL**
-5. **Assets, Threats, and Vulnerabilities**
-6. **Sound the Alarm: Detection and Response**
-7. **Automate Cybersecurity Tasks with Python**
-8. **Put It to Work: Prepare for Cybersecurity Jobs** (No files needed)
+| Section | Focus |
+| --- | --- |
+| `1. Foundations Of Cybersecurity` | Security principles, roles, responsibilities, and core terminology |
+| `2. Play It Safe: Manage Security Risks` | Risk, controls, frameworks, and governance concepts |
+| `3. Connect and Protect: Networks and Network Security` | Network security fundamentals and defensive controls |
 
-Feel free to explore each directory for detailed information on each course.
+## Hiring Relevance
 
-## Join the Conversation
+This repository supports entry-level cybersecurity roles by demonstrating:
 
-Let's build a community around cybersecurity learning! Your contributions, suggestions, and feedback are highly encouraged. If you find this repository helpful, consider giving it a star and sharing it with others.
+- Understanding of SOC and analyst responsibilities
+- Familiarity with security monitoring and incident response concepts
+- Ability to document technical work clearly
+- Awareness of risk, controls, and business impact
+- Continued development toward Security+, SIEM, and blue-team labs
 
-Happy learning and stay secure! 🛡️✨
+## Recommended Review Path
+
+1. Start with the certificate verification links.
+2. Review the course folders for applied notes and exercises.
+3. Compare this repository with the main [cybersecurity portfolio roadmap](https://github.com/wilsonvs/cyber) for current project priorities.
+
+## Next Improvements
+
+- Add screenshots or sample outputs for technical exercises.
+- Add short executive summaries to each major folder.
+- Add practical mini-labs for SIEM triage, Linux hardening, SQL filtering, and Python log parsing.
+- Add a `docs/` section with incident report and risk assessment templates.
+
+## Author
+
+Wilson Vijay Sequeira
+
+GitHub: [wilsonvs](https://github.com/wilsonvs)
