@@ -1,21 +1,19 @@
 # Google Cybersecurity Professional Certificate
 
-Portfolio documentation for my Google Cybersecurity Professional Certificate work, organized around skills relevant to entry-level SOC, cybersecurity analyst, and security operations roles.
+This repository documents my applied learning from the Google Cybersecurity Professional Certificate. I use it alongside my hands-on cybersecurity portfolio to connect certificate topics with practical security work.
 
-## Overview
+## Background
 
-This repository documents applied learning from the Google Cybersecurity Professional Certificate, including security concepts, analyst workflows, Linux, SQL, Python, network security, SIEM fundamentals, incident response, and risk management.
-
-The goal of this repository is to show how the certificate material maps to practical security work: analyzing risk, reviewing logs, documenting incidents, understanding network activity, and communicating security recommendations clearly.
+My current profile includes 8+ years of IT experience, IT Manager work, (ISC)² Certified in Cybersecurity (CC), and Security+ SY0-701 preparation. This certificate repository supports the foundation behind my SOC, SIEM, incident response, risk, Linux, SQL, Python, and network security practice.
 
 ## Certificate Verification
 
 - [Credly badge](https://www.credly.com/badges/b26300b6-1e82-4e72-8d5d-195adf1534e1/linked_in_profile)
 - [Coursera certificate](https://coursera.org/share/8e8b4cc026db128ec5a35848bfaf7679)
 
-## Skills Demonstrated
+## Topics Practiced
 
-| Skill Area | Evidence in This Repository |
+| Area | What I Worked On |
 | --- | --- |
 | Security foundations | CIA triad, threat types, security domains, risk concepts |
 | Risk management | Asset, threat, vulnerability, and control documentation |
@@ -23,7 +21,7 @@ The goal of this repository is to show how the certificate material maps to prac
 | Linux and SQL | Command-line fundamentals and query practice |
 | Detection and response | SIEM concepts, alert review, incident response workflow |
 | Python automation | Beginner security automation and repeatable task scripting |
-| Professional communication | Written summaries, structured notes, and security recommendations |
+| Communication | Written summaries, structured notes, and security recommendations |
 
 ## Repository Structure
 
@@ -33,31 +31,18 @@ The goal of this repository is to show how the certificate material maps to prac
 | `2. Play It Safe: Manage Security Risks` | Risk, controls, frameworks, and governance concepts |
 | `3. Connect and Protect: Networks and Network Security` | Network security fundamentals and defensive controls |
 
-## Hiring Relevance
+## How This Connects To My Main Portfolio
 
-This repository supports entry-level cybersecurity roles by demonstrating:
-
-- Understanding of SOC and analyst responsibilities
-- Familiarity with security monitoring and incident response concepts
-- Ability to document technical work clearly
-- Awareness of risk, controls, and business impact
-- Continued development toward Security+, SIEM, and blue-team labs
-
-## Recommended Review Path
-
-1. Start with the certificate verification links.
-2. Review the course folders for applied notes and exercises.
-3. Compare this repository with the main [cybersecurity portfolio roadmap](https://github.com/wilsonvs/cyber) for current project priorities.
+The certificate notes support the practical projects in my main [cybersecurity portfolio](https://github.com/wilsonvs/cybersecurity-portfolio): Windows log analysis, phishing triage, SIEM detection logic, vulnerability management, Python log triage, cloud IAM review, and GRC artifacts.
 
 ## Next Improvements
 
 - Add screenshots or sample outputs for technical exercises.
-- Add short executive summaries to each major folder.
+- Add short summaries to each major folder.
 - Add practical mini-labs for SIEM triage, Linux hardening, SQL filtering, and Python log parsing.
 - Add a `docs/` section with incident report and risk assessment templates.
 
-## Author
+## Links
 
-Wilson Vijay Sequeira
-
-GitHub: [wilsonvs](https://github.com/wilsonvs)
+- GitHub: [wilsonvs](https://github.com/wilsonvs)
+- LinkedIn: [wilsonvsequeira](https://www.linkedin.com/in/wilsonvsequeira)
