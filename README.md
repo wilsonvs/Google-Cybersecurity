@@ -1,10 +1,10 @@
 # Google Cybersecurity Professional Certificate
 
-This repository documents my applied learning from the Google Cybersecurity Professional Certificate. I use it alongside my hands-on cybersecurity portfolio to connect certificate topics with practical security work.
+This repository documents my applied learning from the Google Cybersecurity Professional Certificate and connects the course material to my cybersecurity portfolio.
 
-## Background
+## Professional Context
 
-My current profile includes 8+ years of IT experience, IT Manager work, (ISC)² Certified in Cybersecurity (CC), and Security+ SY0-701 preparation. This certificate repository supports the foundation behind my SOC, SIEM, incident response, risk, Linux, SQL, Python, and network security practice.
+I am an aspiring Cybersecurity Analyst with 10+ years of IT experience across system administration, network management, and technical support. I am ISC2 Certified in Cybersecurity (CC), preparing for CompTIA Security+ SY0-701, and building hands-on projects in SOC triage, SIEM detection, incident response, vulnerability management, cloud IAM, and GRC.
 
 ## Certificate Verification
 
@@ -31,7 +31,7 @@ My current profile includes 8+ years of IT experience, IT Manager work, (ISC)² 
 | `2. Play It Safe: Manage Security Risks` | Risk, controls, frameworks, and governance concepts |
 | `3. Connect and Protect: Networks and Network Security` | Network security fundamentals and defensive controls |
 
-## How This Connects To My Main Portfolio
+## Connection To My Main Portfolio
 
 The certificate notes support the practical projects in my main [cybersecurity portfolio](https://github.com/wilsonvs/cybersecurity-portfolio): Windows log analysis, phishing triage, SIEM detection logic, vulnerability management, Python log triage, cloud IAM review, and GRC artifacts.
 
@@ -42,7 +42,8 @@ The certificate notes support the practical projects in my main [cybersecurity p
 - Add practical mini-labs for SIEM triage, Linux hardening, SQL filtering, and Python log parsing.
 - Add a `docs/` section with incident report and risk assessment templates.
 
-## Links
+## Contact
 
-- GitHub: [wilsonvs](https://github.com/wilsonvs)
+- Email: [wilsonvijaysequeira@gmail.com](mailto:wilsonvijaysequeira@gmail.com)
 - LinkedIn: [wilsonvsequeira](https://www.linkedin.com/in/wilsonvsequeira)
+- GitHub: [wilsonvs](https://github.com/wilsonvs)
