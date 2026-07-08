@@ -1,58 +1,94 @@
 # Module 4: Tools of the Trade - Linux and SQL
 
 ## Goal
-Learn basic Linux and SQL skills used to search, manage, and review security-related information.
+Learn how operating systems work, how to use Linux basics, and how SQL helps analysts search structured security data.
+
+## Week-by-Week Focus
+
+| Week | Study Focus |
+| --- | --- |
+| Week 1 | Operating systems, user interfaces, and how systems manage work |
+| Week 2 | Linux, distributions, shell, and command-line basics |
+| Week 3 | Linux file system, Bash commands, permissions, authentication, and help tools |
+| Week 4 | SQL, databases, queries, filters, joins, and reference syntax |
+
+## Operating System Basics
+
+- **Operating system:** Software that manages hardware, software, files, users, and processes.
+- **GUI:** Graphical user interface with windows, icons, and menus.
+- **CLI:** Command-line interface for text-based commands.
+- **Kernel:** Core part of the operating system that manages resources.
+- **Process:** Running program or task.
 
 ## Linux Basics
 
-- **Linux:** Open-source operating system commonly used in servers, security tools, and cloud environments.
-- **Command line:** Text-based way to interact with the system.
-- **Directory:** Folder used to organize files.
-- **Permissions:** Rules controlling who can read, write, or execute files.
+- Linux is common in servers, cloud systems, security tools, and analyst environments.
+- A **distribution** is a version of Linux packaged with tools and settings.
+- The **shell** receives commands and passes them to the operating system.
+- **Bash** is a common Linux shell.
 
 ## Useful Linux Commands
 
-- `pwd` - show current directory
-- `ls` - list files and folders
-- `cd` - change directory
-- `cat` - display file content
-- `grep` - search text
-- `chmod` - change file permissions
-- `sudo` - run command with elevated privileges
-- `man` - open manual/help page
+| Command | Use |
+| --- | --- |
+| `pwd` | Show current directory |
+| `ls` | List files and folders |
+| `cd` | Change directory |
+| `cat` | Display file content |
+| `head` / `tail` | View beginning or end of a file |
+| `grep` | Search text patterns |
+| `find` | Locate files |
+| `chmod` | Change permissions |
+| `chown` | Change file owner |
+| `sudo` | Run with elevated privileges |
+| `man` | Open manual pages |
 
 ## Linux Permissions
 
-- **Read:** View file contents.
-- **Write:** Modify file contents.
-- **Execute:** Run a file or script.
-- Permissions are commonly assigned to user, group, and others.
+Linux permissions commonly apply to:
+
+- **User:** File owner.
+- **Group:** Assigned group.
+- **Other:** Everyone else.
+
+Permission types:
+
+- **Read:** View content.
+- **Write:** Modify content.
+- **Execute:** Run a file or enter a directory.
 
 ## SQL Basics
 
-- **SQL:** Structured Query Language used to work with relational databases.
+- **SQL:** Structured Query Language used to query relational databases.
 - **Database:** Organized collection of data.
-- **Table:** Data organized in rows and columns.
+- **Table:** Data stored in rows and columns.
 - **Query:** Request for data.
+- **Filter:** Condition used to narrow results.
 
-## Useful SQL Commands
+## Useful SQL Keywords
 
-- `SELECT` - choose columns to view
-- `FROM` - choose the table
-- `WHERE` - filter results
-- `AND` / `OR` - combine conditions
-- `ORDER BY` - sort results
-- `LIKE` - search for patterns
+| Keyword | Use |
+| --- | --- |
+| `SELECT` | Choose columns |
+| `FROM` | Choose table |
+| `WHERE` | Filter records |
+| `AND` / `OR` | Combine conditions |
+| `LIKE` | Match patterns |
+| `ORDER BY` | Sort results |
+| `JOIN` | Combine tables |
+| `COUNT` | Count records |
 
-## Security Use Cases
+## Security Examples
 
-- Search logs for suspicious activity.
-- Filter failed login attempts.
-- Review user or asset records.
-- Find patterns in security data.
+- Find failed login attempts.
+- Filter logs by user, host, or date.
+- Search employee access records.
+- Join asset data with vulnerability data.
+- Identify unusual database records.
 
 ## Quick Review
 
-- Linux helps analysts navigate systems and review files.
-- SQL helps analysts search and filter structured data.
-- Command-line comfort is useful for security operations and troubleshooting.
+- Linux command-line skills help analysts navigate and inspect systems.
+- Permissions matter for access control.
+- SQL helps search structured data quickly.
+- Filtering and joins are useful for security investigations.
