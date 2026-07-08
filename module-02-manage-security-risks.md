@@ -1,15 +1,25 @@
 # Module 2: Play It Safe - Manage Security Risks
 
 ## Goal
-Understand how organizations identify risks, choose controls, and use frameworks to improve security.
+Understand how organizations manage risk using security domains, frameworks, controls, audits, SIEM tools, dashboards, and incident response playbooks.
 
-## Key Ideas
+## Week-by-Week Focus
 
-- **Asset:** Anything valuable that needs protection, such as data, systems, applications, and people.
-- **Threat:** A possible danger to an asset.
+| Week | Study Focus |
+| --- | --- |
+| Week 1 | Security domains, threats, risks, and vulnerabilities |
+| Week 2 | Frameworks, controls, CIA triad, NIST, OWASP, and security audits |
+| Week 3 | SIEM dashboards and SIEM tools |
+| Week 4 | Incident response playbooks and response phases |
+
+## Risk Basics
+
+- **Asset:** Something valuable that needs protection.
+- **Threat:** Something that can cause harm.
 - **Vulnerability:** A weakness that can be exploited.
-- **Risk:** The chance of loss or harm when a threat exploits a vulnerability.
-- **Control:** A safeguard used to reduce risk.
+- **Risk:** The chance that a threat exploits a vulnerability and causes impact.
+- **Likelihood:** How probable a risk event is.
+- **Impact:** The damage if the event happens.
 
 ## Risk Management Process
 
@@ -17,33 +27,66 @@ Understand how organizations identify risks, choose controls, and use frameworks
 2. Identify threats and vulnerabilities.
 3. Estimate likelihood and impact.
 4. Prioritize risks.
-5. Apply security controls.
-6. Monitor and review results.
+5. Select controls.
+6. Document the decision.
+7. Monitor and improve.
 
-## Types of Controls
+## Security Controls
 
-- **Preventive:** Stops an event before it happens, such as MFA or firewalls.
-- **Detective:** Finds suspicious activity, such as logs or alerts.
-- **Corrective:** Helps recover after an issue, such as backups or patches.
-- **Deterrent:** Discourages unwanted actions, such as warning banners.
+- **Preventive:** Stops an event before it happens, such as MFA.
+- **Detective:** Finds suspicious activity, such as logs and alerts.
+- **Corrective:** Helps recover, such as patching or restoring backups.
+- **Deterrent:** Discourages activity, such as warning banners.
 - **Compensating:** Alternative control when the preferred control is not possible.
 
 ## Frameworks and Standards
 
-- **NIST Cybersecurity Framework:** Helps organize security around Identify, Protect, Detect, Respond, and Recover.
-- **Security policies:** Define expected behavior and rules.
-- **Compliance:** Following laws, regulations, standards, or internal requirements.
+- **NIST CSF:** Identify, Protect, Detect, Respond, Recover.
+- **NIST RMF:** Structured way to manage risk for systems.
+- **OWASP:** Web application security guidance and common application risks.
+- **CIS Controls:** Practical security safeguards.
+- **PCI DSS:** Payment card security requirements.
+- **HIPAA/GDPR:** Privacy and data protection requirements.
 
-## Risk Responses
+## CIA Triad Review
 
-- **Accept:** Keep the risk if it is low or acceptable.
-- **Avoid:** Stop the activity causing the risk.
-- **Transfer:** Move some risk to another party, such as insurance.
-- **Mitigate:** Reduce likelihood or impact with controls.
+- **Confidentiality:** Protect data from unauthorized access.
+- **Integrity:** Keep data accurate and trustworthy.
+- **Availability:** Keep systems and data accessible.
+
+## Security Audits
+
+A security audit checks whether controls, policies, or compliance requirements are working. Useful audit evidence includes policies, access reviews, logs, screenshots, vulnerability results, and incident records.
+
+## SIEM Dashboards
+
+A SIEM dashboard helps analysts view security events quickly. A useful dashboard can show:
+
+- Failed logins
+- Malware alerts
+- High-risk users or hosts
+- Firewall events
+- Suspicious IP addresses
+- Alert counts by severity
+- Recent incidents
+
+## Incident Response Playbooks
+
+A **playbook** gives repeatable steps for handling a specific alert or incident.
+
+Common playbook phases:
+
+1. Prepare
+2. Detect and analyze
+3. Contain
+4. Eradicate
+5. Recover
+6. Review lessons learned
 
 ## Quick Review
 
 - Risk management helps decide what to fix first.
-- Controls reduce risk but may not remove it completely.
-- Frameworks help organize security work in a repeatable way.
-- Good documentation supports audits, compliance, and decision-making.
+- Controls reduce likelihood or impact.
+- Frameworks help organize security work.
+- SIEM dashboards support monitoring and triage.
+- Playbooks make incident response more consistent.
