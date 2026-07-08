@@ -1,6 +1,6 @@
 # Google Cybersecurity Professional Certificate
 
-This repository documents my applied learning from the Google Cybersecurity Professional Certificate and connects the course material to my cybersecurity portfolio.
+This repository documents my applied learning from the Google Cybersecurity Professional Certificate and connects the course material to my hands-on cybersecurity portfolio.
 
 ## Professional Context
 
@@ -16,31 +16,23 @@ I am an aspiring Cybersecurity Analyst with 10+ years of IT experience across sy
 | Area | What I Worked On |
 | --- | --- |
 | Security foundations | CIA triad, threat types, security domains, risk concepts |
-| Risk management | Asset, threat, vulnerability, and control documentation |
+| Risk management | Assets, threats, vulnerabilities, controls, and governance concepts |
 | Network security | Protocols, network controls, packet analysis concepts |
 | Linux and SQL | Command-line fundamentals and query practice |
-| Detection and response | SIEM concepts, alert review, incident response workflow |
+| Detection and response | SIEM concepts, alert review, and incident response workflow |
 | Python automation | Beginner security automation and repeatable task scripting |
 | Communication | Written summaries, structured notes, and security recommendations |
 
 ## Repository Structure
 
-| Section | Focus |
+| File | Purpose |
 | --- | --- |
-| `1. Foundations Of Cybersecurity` | Security principles, roles, responsibilities, and core terminology |
-| `2. Play It Safe: Manage Security Risks` | Risk, controls, frameworks, and governance concepts |
-| `3. Connect and Protect: Networks and Network Security` | Network security fundamentals and defensive controls |
+| `1. Foundations Of Cybersecurity/professional-statement.md` | First-person summary of how my IT background connects to cybersecurity practice |
+| `1. Foundations Of Cybersecurity/terms-and-definitions.md` | Clean terminology notes from the first course |
 
 ## Connection To My Main Portfolio
 
 The certificate notes support the practical projects in my main [cybersecurity portfolio](https://github.com/wilsonvs/cybersecurity-portfolio): Windows log analysis, phishing triage, SIEM detection logic, vulnerability management, Python log triage, cloud IAM review, and GRC artifacts.
-
-## Next Improvements
-
-- Add screenshots or sample outputs for technical exercises.
-- Add short summaries to each major folder.
-- Add practical mini-labs for SIEM triage, Linux hardening, SQL filtering, and Python log parsing.
-- Add a `docs/` section with incident report and risk assessment templates.
 
 ## Contact
 
