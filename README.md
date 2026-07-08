@@ -1,41 +1,74 @@
-# Google Cybersecurity Professional Certificate
+# Google Cybersecurity Professional Certificate Study Notes
 
-This repository documents my applied learning from the Google Cybersecurity Professional Certificate and connects the course material to my hands-on cybersecurity portfolio.
+Free Google Cybersecurity Professional Certificate study notes for learners building a foundation in cybersecurity. This repository is organized as a study resource with concise notes, terminology, and certificate references.
 
-## Professional Context
+If these notes help, consider starring the repo so more learners can find it.
 
-I am an aspiring Cybersecurity Analyst with 10+ years of IT experience across system administration, network management, and technical support. I am ISC2 Certified in Cybersecurity (CC), preparing for CompTIA Security+ SY0-701, and building hands-on projects in SOC triage, SIEM detection, incident response, vulnerability management, cloud IAM, and GRC.
+## What This Repository Covers
+
+- Cybersecurity foundations
+- Security terminology
+- CIA triad and security principles
+- Risk, threats, vulnerabilities, and controls
+- Network security fundamentals
+- Detection and response concepts
+- Linux, SQL, and Python fundamentals from the certificate path
+- Security communication and documentation basics
 
 ## Certificate Verification
 
-- [Credly badge](https://www.credly.com/badges/b26300b6-1e82-4e72-8d5d-195adf1534e1/linked_in_profile)
-- [Coursera certificate](https://coursera.org/share/8e8b4cc026db128ec5a35848bfaf7679)
+| Resource | Link |
+| --- | --- |
+| Credly badge | [Google Cybersecurity Certificate badge](https://www.credly.com/badges/b26300b6-1e82-4e72-8d5d-195adf1534e1/linked_in_profile) |
+| Coursera certificate | [Coursera certificate](https://coursera.org/share/8e8b4cc026db128ec5a35848bfaf7679) |
+
+## Study Notes Index
+
+| Notes | Focus |
+| --- | --- |
+| [`1. Foundations Of Cybersecurity/professional-statement.md`](1.%20Foundations%20Of%20Cybersecurity/professional-statement.md) | Personal cybersecurity learning statement from the certificate foundation course |
+| [`1. Foundations Of Cybersecurity/terms-and-definitions.md`](1.%20Foundations%20Of%20Cybersecurity/terms-and-definitions.md) | Core terms and definitions from Course 1 |
 
 ## Topics Practiced
 
-| Area | What I Worked On |
+| Area | Study Focus |
 | --- | --- |
-| Security foundations | CIA triad, threat types, security domains, risk concepts |
-| Risk management | Assets, threats, vulnerabilities, controls, and governance concepts |
-| Network security | Protocols, network controls, packet analysis concepts |
-| Linux and SQL | Command-line fundamentals and query practice |
+| Security foundations | CIA triad, security domains, ethics, and security mindset |
+| Risk management | Assets, threats, vulnerabilities, likelihood, impact, and controls |
+| Network security | Protocols, defensive controls, and traffic analysis concepts |
+| Linux and SQL | Command-line basics and query fundamentals |
 | Detection and response | SIEM concepts, alert review, and incident response workflow |
-| Python automation | Beginner security automation and repeatable task scripting |
-| Communication | Written summaries, structured notes, and security recommendations |
+| Python automation | Beginner scripting concepts for repeatable security tasks |
+| Communication | Clear written notes, summaries, and security recommendations |
 
-## Repository Structure
+## How To Study With This Repository
 
-| File | Purpose |
-| --- | --- |
-| `1. Foundations Of Cybersecurity/professional-statement.md` | First-person summary of how my IT background connects to cybersecurity practice |
-| `1. Foundations Of Cybersecurity/terms-and-definitions.md` | Clean terminology notes from the first course |
+1. Start with the foundation notes.
+2. Review the terms and definitions until the vocabulary is familiar.
+3. Connect each term to a simple real-world example.
+4. Use the certificate verification links to confirm the credential path.
+5. Pair these notes with hands-on practice in safe, authorized lab environments.
+6. Revisit the notes before reviewing Security+ or SOC analyst material.
 
-## Connection To My Main Portfolio
+## Recommended Next Study Path
 
-The certificate notes support the practical projects in my main [cybersecurity portfolio](https://github.com/wilsonvs/cybersecurity-portfolio): Windows log analysis, phishing triage, SIEM detection logic, vulnerability management, Python log triage, cloud IAM review, and GRC artifacts.
+After the Google Cybersecurity Professional Certificate, useful next topics include:
 
-## Contact
+- CompTIA Security+ SY0-701 fundamentals
+- Windows and Linux log analysis
+- Basic SIEM alert triage
+- Phishing email analysis
+- Vulnerability management concepts
+- Cloud IAM and access control basics
 
-- Email: [wilsonvijaysequeira@gmail.com](mailto:wilsonvijaysequeira@gmail.com)
-- LinkedIn: [wilsonvsequeira](https://www.linkedin.com/in/wilsonvsequeira)
-- GitHub: [wilsonvs](https://github.com/wilsonvs)
+## Keywords
+
+Google Cybersecurity Professional Certificate, Google Cybersecurity study notes, cybersecurity foundations, cybersecurity terms, CIA triad, security domains, threat analysis, risk management, SIEM basics, incident response basics, Linux cybersecurity, SQL cybersecurity, Python security basics, entry-level cybersecurity study guide.
+
+## Contributing
+
+Corrections and improvements are welcome. Keep contributions focused on accurate terminology, clear explanations, ethical learning, and certificate-aligned study material.
+
+## Disclaimer
+
+These are personal study notes, not official Google, Coursera, or CompTIA training material. Use them with authorized course material and official certificate resources.
