@@ -1,6 +1,6 @@
 # Google Cybersecurity Professional Certificate Study Guide and Notes
 
-Beginner-friendly Google Cybersecurity Professional Certificate study guide with **one file per module**. The notes are brief, easy to scan, and written for quick revision while preparing for the certificate.
+Beginner-friendly Google Cybersecurity Professional Certificate study guide with **one file per module**. The notes are organized for quick revision, certificate preparation, and simple cybersecurity concept review.
 
 If these notes help, consider starring or forking the repo so more learners can find and improve it.
 
@@ -24,13 +24,6 @@ If these notes help, consider starring or forking the repo so more learners can 
 3. Make flashcards for terms you do not remember.
 4. Connect each concept to a simple example.
 5. Revisit weak modules before moving into Security+ or SOC analyst study material.
-
-## Certificate Verification
-
-| Resource | Link |
-| --- | --- |
-| Credly badge | [Google Cybersecurity Certificate badge](https://www.credly.com/badges/b26300b6-1e82-4e72-8d5d-195adf1534e1/linked_in_profile) |
-| Coursera certificate | [Coursera certificate](https://coursera.org/share/8e8b4cc026db128ec5a35848bfaf7679) |
 
 ## Topics Covered
 
