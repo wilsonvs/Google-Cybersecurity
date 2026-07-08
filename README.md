@@ -1,46 +1,53 @@
 # Google Cybersecurity Professional Certificate Study Guide and Notes
 
-Beginner-friendly Google Cybersecurity Professional Certificate study guide with **one file per module**. The notes are organized for quick revision, certificate preparation, and simple cybersecurity concept review.
+A clean, module-by-module study guide for the Google Cybersecurity Professional Certificate. These notes are written for quick learning, certificate preparation, and revision without needing to move through many folders or scattered files.
 
-If these notes help, consider starring or forking the repo so more learners can find and improve it.
+The goal of this repository is to make the course easier to study by keeping each certificate module in one readable file. Each module includes weekly study sections, key concepts, important terms, practice ideas, quick-check questions, and a final review checklist.
 
 ## Study Guide Index
 
-| Module | Study Notes | Focus |
-| ---: | --- | --- |
-| 1 | [`module-01-foundations-of-cybersecurity.md`](module-01-foundations-of-cybersecurity.md) | Cybersecurity basics, CIA triad, security domains, threats, vulnerabilities, and risk |
-| 2 | [`module-02-manage-security-risks.md`](module-02-manage-security-risks.md) | Risk management, security controls, frameworks, governance, and compliance basics |
-| 3 | [`module-03-networks-and-network-security.md`](module-03-networks-and-network-security.md) | Network concepts, protocols, ports, firewalls, VPNs, IDS/IPS, and network attacks |
-| 4 | [`module-04-linux-and-sql.md`](module-04-linux-and-sql.md) | Linux commands, permissions, SQL basics, filtering, and searching data |
-| 5 | [`module-05-assets-threats-and-vulnerabilities.md`](module-05-assets-threats-and-vulnerabilities.md) | Assets, threat types, vulnerabilities, attack surface, and vulnerability management basics |
-| 6 | [`module-06-detection-and-response.md`](module-06-detection-and-response.md) | SIEM, logs, alert triage, incident response lifecycle, and response actions |
-| 7 | [`module-07-python-automation.md`](module-07-python-automation.md) | Python basics, automation concepts, log filtering, and simple security scripting ideas |
-| 8 | [`module-08-prepare-for-cybersecurity-jobs.md`](module-08-prepare-for-cybersecurity-jobs.md) | Career preparation, communication, documentation, interview topics, and learning plan |
+| Module | Study Notes |
+| --- | --- |
+| 1 | [Foundations of Cybersecurity](module-01-foundations-of-cybersecurity.md) |
+| 2 | [Play It Safe - Manage Security Risks](module-02-manage-security-risks.md) |
+| 3 | [Connect and Protect - Networks and Network Security](module-03-networks-and-network-security.md) |
+| 4 | [Tools of the Trade - Linux and SQL](module-04-linux-and-sql.md) |
+| 5 | [Assets, Threats, and Vulnerabilities](module-05-assets-threats-and-vulnerabilities.md) |
+| 6 | [Sound the Alarm - Detection and Response](module-06-detection-and-response.md) |
+| 7 | [Automate Cybersecurity Tasks with Python](module-07-python-automation.md) |
+| 8 | [Put It to Work - Prepare for Cybersecurity Jobs](module-08-prepare-for-cybersecurity-jobs.md) |
 
-## How To Use These Notes
+## How to Use These Notes
 
-1. Read one module at a time.
-2. Review the key ideas and quick review section.
-3. Make flashcards for terms you do not remember.
-4. Connect each concept to a simple example.
-5. Revisit weak modules before moving into Security+ or SOC analyst study material.
+1. Start with the module file that matches the course module you are studying.
+2. Read the weekly sections in order.
+3. Review the important terms before moving to the next week.
+4. Complete the practice tasks to connect the concepts with real security work.
+5. Use the quick-check questions to test recall.
+6. Use the module review checklist before finishing each module.
 
-## Topics Covered
+## What Is Included
 
-- Cybersecurity foundations
-- Security domains and CIA triad
-- Risk management and security controls
-- Network security fundamentals
-- Linux and SQL basics
-- Assets, threats, and vulnerabilities
-- SIEM, detection, and incident response basics
-- Python automation basics
-- Cybersecurity career preparation from the certificate
+- One file for each of the 8 certificate modules
+- Weekly study-guide structure inside every module
+- Beginner-friendly explanations of cybersecurity concepts
+- Important terminology for review and recall
+- Practical tasks for hands-on understanding
+- Quick-check questions for self-testing
+- Final module review checklists
+
+## Best For
+
+- Google Cybersecurity Professional Certificate learners
+- Beginners studying cybersecurity fundamentals
+- Students reviewing SOC analyst basics
+- Learners who want organized certificate notes in one place
+- Quick review before quizzes, labs, and course assessments
 
 ## Search Keywords
 
-Google Cybersecurity Professional Certificate study guide, Google Cybersecurity study notes, Google Cybersecurity course notes, Coursera Google Cybersecurity notes, cybersecurity beginner study guide, cybersecurity foundations, cybersecurity terms and definitions, CIA triad, security domains, threat analysis, risk management, SIEM basics, incident response basics, Linux cybersecurity, SQL cybersecurity, Python security basics, entry-level cybersecurity notes.
+Google Cybersecurity Certificate study guide, Google Cybersecurity notes, cybersecurity certificate study notes, SOC analyst beginner notes, cybersecurity fundamentals, security risk management, network security notes, Linux SQL cybersecurity, Python cybersecurity automation, incident detection and response.
 
 ## Disclaimer
 
-These are personal study notes, not official Google or Coursera training material. Use them with authorized course material and official certificate resources.
+These are personal study notes written for learning and revision. They are not official Google, Coursera, or CompTIA material. Use the official course content and documentation as the primary source when completing the certificate.
