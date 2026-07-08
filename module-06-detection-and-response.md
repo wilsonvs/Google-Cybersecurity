@@ -1,58 +1,97 @@
 # Module 6: Sound the Alarm - Detection and Response
 
 ## Goal
-Understand how security teams monitor activity, review alerts, and respond to incidents.
+Understand how analysts detect incidents, inspect network traffic, document findings, respond to incidents, and use IDS/SIEM tools.
 
-## Key Ideas
+## Week-by-Week Focus
 
-- **Detection:** Finding suspicious or unwanted activity.
-- **Alert:** Notification that activity may need review.
-- **Incident:** Security event that may harm confidentiality, integrity, or availability.
-- **SIEM:** Tool that collects and analyzes logs from different systems.
-- **Log:** Record of activity from a system, application, device, or service.
-
-## Common Log Sources
-
-- Windows Security logs
-- Linux authentication logs
-- Firewall logs
-- DNS logs
-- VPN logs
-- Cloud audit logs
-- Email security logs
-- Endpoint security alerts
-
-## Alert Triage Questions
-
-- What triggered the alert?
-- Which user, host, or IP address is involved?
-- Is the activity expected?
-- What happened before and after the alert?
-- Are other systems affected?
-- Is containment needed?
+| Week | Study Focus |
+| --- | --- |
+| Week 1 | Incident response lifecycle, operations, and response tools |
+| Week 2 | Network traffic, packet capture, packet inspection, and protocol analysis |
+| Week 3 | Incident detection, verification, documentation, recovery, and post-incident actions |
+| Week 4 | Logs, IDS, SIEM tools, log formats, and detection rules |
 
 ## Incident Response Lifecycle
 
-1. Preparation
-2. Detection and analysis
-3. Containment
-4. Eradication
-5. Recovery
-6. Lessons learned
+1. **Preparation:** Build tools, procedures, contacts, and playbooks.
+2. **Detection and analysis:** Identify and validate suspicious activity.
+3. **Containment:** Limit damage and prevent spread.
+4. **Eradication:** Remove the cause of the incident.
+5. **Recovery:** Restore normal operations.
+6. **Post-incident activity:** Document lessons learned and improve controls.
 
-## Common Response Actions
+## Network Traffic Review
 
-- Disable account
-- Reset password
-- Isolate endpoint
-- Block suspicious IP or domain
-- Preserve logs
-- Remove malware
-- Patch vulnerable system
-- Restore from backup if needed
+Analysts may inspect traffic to understand:
+
+- Source and destination IP addresses
+- Ports and protocols
+- Packet size and timing
+- DNS requests
+- HTTP requests
+- Unusual connections
+- Repeated failed communication
+
+Tools and concepts:
+
+- Packet capture
+- Protocol analyzer
+- Network metadata
+- TCP/IP headers
+- DNS and HTTP logs
+- Network telemetry
+
+## Incident Documentation
+
+Good documentation should include:
+
+- Alert name or event summary
+- Date and time
+- User, host, IP, or asset involved
+- Evidence reviewed
+- Timeline of events
+- Impact estimate
+- Actions taken
+- Next steps
+
+## Logs
+
+- **Log:** Record of activity from a system, application, network device, or security tool.
+- **Security logs:** Events related to access, alerts, authentication, or suspicious activity.
+- **System logs:** Operating system and service events.
+- **Network logs:** Traffic and connection records.
+
+Common formats:
+
+- Syslog
+- JSON
+- XML
+- CSV
+- Key-value pairs
+
+## IDS and SIEM
+
+- **IDS:** Detects suspicious activity and creates alerts.
+- **NIDS:** Network-based IDS.
+- **HIDS:** Host-based IDS.
+- **SIEM:** Collects, searches, and correlates logs.
+- **Rule/signature:** Detection logic that identifies known patterns.
+
+## Search and Detection
+
+Analysts may use:
+
+- Raw log search
+- Field search
+- SPL-style queries
+- UDM-style searches
+- YARA-L style detection logic
+- Filters by user, host, IP, time, or event type
 
 ## Quick Review
 
-- Detection depends on useful logs and clear alert logic.
-- Triage confirms whether activity is normal, suspicious, or malicious.
-- Incident response uses structured steps to reduce damage and recover safely.
+- Detection starts with logs, traffic, alerts, and context.
+- Verification decides whether activity is benign, suspicious, or malicious.
+- Documentation supports escalation and lessons learned.
+- SIEM and IDS tools help analysts search and detect security events.
