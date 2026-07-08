@@ -1,51 +1,29 @@
 # Google Cybersecurity Professional Certificate Study Guide and Notes
 
-Beginner-friendly Google Cybersecurity Professional Certificate study notes. This repository is **in progress** and currently starts with Course 1: Foundations of Cybersecurity.
-
-The goal is to keep the notes brief, easy to read, and useful for quick revision while working through the certificate.
+Beginner-friendly Google Cybersecurity Professional Certificate study guide with **one file per module**. The notes are brief, easy to scan, and written for quick revision while preparing for the certificate.
 
 If these notes help, consider starring or forking the repo so more learners can find and improve it.
 
-## Current Status
+## Study Guide Index
 
-| Course | Status | Notes |
-| --- | --- | --- |
-| 1. Foundations of Cybersecurity | Started | Professional statement and core terms added |
-| 2. Play It Safe: Manage Security Risks | Planned | Risk, controls, frameworks, and security governance |
-| 3. Connect and Protect: Networks and Network Security | Planned | Networks, protocols, and network defense basics |
-| 4. Tools of the Trade: Linux and SQL | Planned | Linux commands and SQL basics for security work |
-| 5. Assets, Threats, and Vulnerabilities | Planned | Assets, threat types, vulnerabilities, and risk analysis |
-| 6. Sound the Alarm: Detection and Response | Planned | SIEM, alert review, logs, and incident response basics |
-| 7. Automate Cybersecurity Tasks with Python | Planned | Python basics for repeatable security tasks |
-| 8. Put It to Work: Prepare for Cybersecurity Jobs | Planned | Resume, interview, and job-readiness learning from the course |
-
-## Study Notes Index
-
-| Course | Folder | What To Review |
-| --- | --- | --- |
-| 1 | [`1. Foundations Of Cybersecurity`](1.%20Foundations%20Of%20Cybersecurity) | Security foundations, professional statement, terms and definitions |
-| 2 | [`2. Play It Safe - Manage Security Risks`](2.%20Play%20It%20Safe%20-%20Manage%20Security%20Risks) | Risk management, controls, frameworks, and governance |
-| 3 | [`3. Connect and Protect - Networks and Network Security`](3.%20Connect%20and%20Protect%20-%20Networks%20and%20Network%20Security) | Network security basics and defensive concepts |
-| 4 | [`4. Tools of the Trade - Linux and SQL`](4.%20Tools%20of%20the%20Trade%20-%20Linux%20and%20SQL) | Linux and SQL fundamentals |
-| 5 | [`5. Assets Threats and Vulnerabilities`](5.%20Assets%20Threats%20and%20Vulnerabilities) | Assets, threats, vulnerabilities, and risk thinking |
-| 6 | [`6. Sound the Alarm - Detection and Response`](6.%20Sound%20the%20Alarm%20-%20Detection%20and%20Response) | Detection, response, logs, and SIEM basics |
-| 7 | [`7. Automate Cybersecurity Tasks with Python`](7.%20Automate%20Cybersecurity%20Tasks%20with%20Python) | Python automation basics for cybersecurity |
-| 8 | [`8. Put It to Work - Prepare for Cybersecurity Jobs`](8.%20Put%20It%20to%20Work%20-%20Prepare%20for%20Cybersecurity%20Jobs) | Career preparation material from the certificate |
-
-## Course 1 Notes Available Now
-
-| Notes | Focus |
-| --- | --- |
-| [`professional-statement.md`](1.%20Foundations%20Of%20Cybersecurity/professional-statement.md) | Short personal learning statement from Course 1 |
-| [`terms-and-definitions.md`](1.%20Foundations%20Of%20Cybersecurity/terms-and-definitions.md) | Core cybersecurity terms from Course 1 |
+| Module | Study Notes | Focus |
+| ---: | --- | --- |
+| 1 | [`module-01-foundations-of-cybersecurity.md`](module-01-foundations-of-cybersecurity.md) | Cybersecurity basics, CIA triad, security domains, threats, vulnerabilities, and risk |
+| 2 | [`module-02-manage-security-risks.md`](module-02-manage-security-risks.md) | Risk management, security controls, frameworks, governance, and compliance basics |
+| 3 | [`module-03-networks-and-network-security.md`](module-03-networks-and-network-security.md) | Network concepts, protocols, ports, firewalls, VPNs, IDS/IPS, and network attacks |
+| 4 | [`module-04-linux-and-sql.md`](module-04-linux-and-sql.md) | Linux commands, permissions, SQL basics, filtering, and searching data |
+| 5 | [`module-05-assets-threats-and-vulnerabilities.md`](module-05-assets-threats-and-vulnerabilities.md) | Assets, threat types, vulnerabilities, attack surface, and vulnerability management basics |
+| 6 | [`module-06-detection-and-response.md`](module-06-detection-and-response.md) | SIEM, logs, alert triage, incident response lifecycle, and response actions |
+| 7 | [`module-07-python-automation.md`](module-07-python-automation.md) | Python basics, automation concepts, log filtering, and simple security scripting ideas |
+| 8 | [`module-08-prepare-for-cybersecurity-jobs.md`](module-08-prepare-for-cybersecurity-jobs.md) | Career preparation, communication, documentation, interview topics, and learning plan |
 
 ## How To Use These Notes
 
-1. Start with Course 1 and learn the core vocabulary.
-2. Review the terms in small groups instead of memorizing everything at once.
-3. Connect each term to a simple example.
-4. Use the course folders to track progress through the certificate.
-5. Revisit these notes before moving into Security+ or SOC analyst study material.
+1. Read one module at a time.
+2. Review the key ideas and quick review section.
+3. Make flashcards for terms you do not remember.
+4. Connect each concept to a simple example.
+5. Revisit weak modules before moving into Security+ or SOC analyst study material.
 
 ## Certificate Verification
 
@@ -54,17 +32,17 @@ If these notes help, consider starring or forking the repo so more learners can 
 | Credly badge | [Google Cybersecurity Certificate badge](https://www.credly.com/badges/b26300b6-1e82-4e72-8d5d-195adf1534e1/linked_in_profile) |
 | Coursera certificate | [Coursera certificate](https://coursera.org/share/8e8b4cc026db128ec5a35848bfaf7679) |
 
-## Topics Covered Over The Certificate
+## Topics Covered
 
 - Cybersecurity foundations
-- Security domains and the CIA triad
-- Threats, vulnerabilities, and controls
-- Risk management and governance basics
+- Security domains and CIA triad
+- Risk management and security controls
 - Network security fundamentals
 - Linux and SQL basics
-- SIEM, detection, and response basics
+- Assets, threats, and vulnerabilities
+- SIEM, detection, and incident response basics
 - Python automation basics
-- Security communication and documentation
+- Cybersecurity career preparation from the certificate
 
 ## Search Keywords
 
