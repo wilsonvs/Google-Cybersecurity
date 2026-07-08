@@ -1,14 +1,15 @@
-# Google Cybersecurity Professional Certificate Study Notes
+# Google Cybersecurity Professional Certificate Study Guide and Notes
 
-Free Google Cybersecurity Professional Certificate study notes for learners building a foundation in cybersecurity. This repository is organized as a study resource with concise notes, terminology, and certificate references.
+Free Google Cybersecurity Professional Certificate study guide and course notes for learners building a foundation in cybersecurity. This repository is organized for quick revision, terminology review, certificate study, and beginner-friendly cybersecurity learning.
 
-If these notes help, consider starring the repo so more learners can find it.
+If these notes help, consider starring or forking the repo so more learners can find and improve it.
 
-## What This Repository Covers
+## What This Study Guide Covers
 
-- Cybersecurity foundations
-- Security terminology
-- CIA triad and security principles
+- Google Cybersecurity Professional Certificate course notes
+- Cybersecurity foundations and beginner security concepts
+- Security terminology and definitions
+- CIA triad and core security principles
 - Risk, threats, vulnerabilities, and controls
 - Network security fundamentals
 - Detection and response concepts
@@ -27,9 +28,9 @@ If these notes help, consider starring the repo so more learners can find it.
 | Notes | Focus |
 | --- | --- |
 | [`1. Foundations Of Cybersecurity/professional-statement.md`](1.%20Foundations%20Of%20Cybersecurity/professional-statement.md) | Personal cybersecurity learning statement from the certificate foundation course |
-| [`1. Foundations Of Cybersecurity/terms-and-definitions.md`](1.%20Foundations%20Of%20Cybersecurity/terms-and-definitions.md) | Core terms and definitions from Course 1 |
+| [`1. Foundations Of Cybersecurity/terms-and-definitions.md`](1.%20Foundations%20Of%20Cybersecurity/terms-and-definitions.md) | Core cybersecurity terms and definitions from Course 1 |
 
-## Topics Practiced
+## Topics Covered
 
 | Area | Study Focus |
 | --- | --- |
@@ -47,23 +48,23 @@ If these notes help, consider starring the repo so more learners can find it.
 2. Review the terms and definitions until the vocabulary is familiar.
 3. Connect each term to a simple real-world example.
 4. Use the certificate verification links to confirm the credential path.
-5. Pair these notes with hands-on practice in safe, authorized lab environments.
+5. Pair these notes with safe, authorized hands-on practice.
 6. Revisit the notes before reviewing Security+ or SOC analyst material.
 
 ## Recommended Next Study Path
 
 After the Google Cybersecurity Professional Certificate, useful next topics include:
 
-- CompTIA Security+ SY0-701 fundamentals
+- CompTIA Security+ SY0-701 study guide and exam objectives
 - Windows and Linux log analysis
 - Basic SIEM alert triage
 - Phishing email analysis
 - Vulnerability management concepts
 - Cloud IAM and access control basics
 
-## Keywords
+## Search Keywords
 
-Google Cybersecurity Professional Certificate, Google Cybersecurity study notes, cybersecurity foundations, cybersecurity terms, CIA triad, security domains, threat analysis, risk management, SIEM basics, incident response basics, Linux cybersecurity, SQL cybersecurity, Python security basics, entry-level cybersecurity study guide.
+Google Cybersecurity Professional Certificate study guide, Google Cybersecurity study notes, Google Cybersecurity course notes, Coursera Google Cybersecurity notes, cybersecurity beginner study guide, cybersecurity foundations, cybersecurity terms and definitions, CIA triad, security domains, threat analysis, risk management, SIEM basics, incident response basics, Linux cybersecurity, SQL cybersecurity, Python security basics, entry-level cybersecurity notes.
 
 ## Contributing
 
